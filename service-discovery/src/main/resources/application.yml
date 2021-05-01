@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: service-discovery
+  clound:
+    config:
+      uri: http://localhost:8888
+
