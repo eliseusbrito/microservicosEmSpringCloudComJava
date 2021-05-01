@@ -1,0 +1,8 @@
+spring:
+
+  application:
+    name: product-catalog
+
+  clound:
+    config:
+      uri: http://localhost:8888
